@@ -1,0 +1,6 @@
+requires 'Test::More';
+requires 'Cwd';
+requires 'Git';
+requires 'Term::ExtendedColor';
+requires 'Term::ReadKey';
+requires 'Try::Catch';
