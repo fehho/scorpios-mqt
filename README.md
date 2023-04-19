@@ -5,6 +5,7 @@
 ### Course 0.1 - Git:
 
 https://git-scm.com/docs/gittutorial
+
 https://github.com/fehho/scorpios-mqt/tree/main/0.%20Tools/1.%20Git
 
 ## MQT Part 1 (Basics)
