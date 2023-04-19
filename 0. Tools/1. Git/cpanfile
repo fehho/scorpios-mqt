@@ -1,4 +1,3 @@
-requires 'Test::More';
 requires 'Cwd';
 requires 'Git';
 requires 'Term::ExtendedColor';
