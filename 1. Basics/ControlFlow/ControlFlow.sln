@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlFlow", "ControlFlow\ControlFlow.csproj", "{5C6C486C-28E7-48A2-BB3C-47473F86C325}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlFlowTest", "ControlFrowTest\ControlFlowTest.csproj", "{AAC707AA-0A89-4501-9C7A-78B38D9EC0A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C6C486C-28E7-48A2-BB3C-47473F86C325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6C486C-28E7-48A2-BB3C-47473F86C325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6C486C-28E7-48A2-BB3C-47473F86C325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6C486C-28E7-48A2-BB3C-47473F86C325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAC707AA-0A89-4501-9C7A-78B38D9EC0A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC707AA-0A89-4501-9C7A-78B38D9EC0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC707AA-0A89-4501-9C7A-78B38D9EC0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC707AA-0A89-4501-9C7A-78B38D9EC0A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C58FC090-B353-47FD-90F2-F3996F1E9525}
+	EndGlobalSection
+EndGlobal
